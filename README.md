@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HoshiyoShiro
 - 👀 I’m interested in Software Development and Web Design
-- 🌱 I’m currently learning Python and Ruby
+- 🌱 I’m currently learning C and Javascript
 - 💞️ I’m looking to collaborate on nothing. Tring to learn more before collaborating.
 - 📫 Connect me via email and nothing else.
