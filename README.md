@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @HoshiyoShiro you may call me Hosh
 - 👀 I’m interested in Software Development and Web Design
 - 🌱 I’m currently learning C and Javascript
-- 💞️ I’m looking to collaborate on nothing. Tring to learn more before trying on huge projects.
 - 📫 Connect me via email and nothing else.
